@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color:rgb(196, 196, 196);
+    height: 100px;
+    padding: 10px;
+}
+
+header div {
+    background-color: rgb(46, 150, 218);
+    height: 90px;
+    width: 90px;
+}
+
+p {
+    margin: 20px auto;
+    padding: 30px 40px;
+    font-size: 25px;
+}
+
+#boxes {
+    height: 60vh;
+}
+
+#boxes div {
+    height: 25%;
+}
+
+#box1 {
+    background-color: rgb(46, 150, 218);
+
+}
+
+#box2 {
+    background-color: rgb(128, 237, 201)
+}
+
+#box3 {
+    background-color: rgb(182, 215, 82);
+}
+
+#box4 {
+    background-color: yellow;
+}
+
